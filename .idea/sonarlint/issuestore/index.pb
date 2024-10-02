@@ -1,11 +1,21 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-O
-src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
 b
 2src/main/java/sl/learn/spring/HelloController.java,a\2\a29fa76b6057af24e56b0bf3fec96ad3bebd7b97
 ^
 .src/main/webapp/WEB-INF/views/hello_world.html,0\8\08e27856f468281d1535d522c7eea892fa5f1526
-a
-1src/main/webapp/WEB-INF/applicationContextMVC.xml,6\c\6c2f962d9aebdca1c44ecb12d37e322f6b2c79d4
+
+Qsrc/main/java/sl/learn/spring/config/MySpringMvsDispatcherServletInitializer.java,f\3\f3be04e083a7ecf3cb70e45be8beb1a610623a6d
+f
+6src/main/java/sl/learn/spring/config/SpringConfig.java,e\b\eb0f12bc28d1bfd261853892df502b217286250a
+^
+.src/main/webapp/WEB-INF/views/second/exit.html,8\6\86c85c7f48399a46de70bd7f0021446be98f0b76
+`
+0src/main/webapp/WEB-INF/views/first/goodbye.html,d\5\d51ab06dbc702eb933e6f2c243d26c647892e7d8
+^
+.src/main/webapp/WEB-INF/views/first/hello.html,5\3\538dc38d9042c849acc4242af9a059216940f90c
+o
+?src/main/java/sl/learn/spring/controllers/SecondController.java,3\d\3d70530bf66b6f6f158a5aacf807cc277c455452
+n
+>src/main/java/sl/learn/spring/controllers/FirstController.java,6\2\62ac7126b2e16cdd97cc902593437c0f2af898a9
