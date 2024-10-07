@@ -19,3 +19,9 @@ o
 ?src/main/java/sl/learn/spring/controllers/SecondController.java,3\d\3d70530bf66b6f6f158a5aacf807cc277c455452
 n
 >src/main/java/sl/learn/spring/controllers/FirstController.java,6\2\62ac7126b2e16cdd97cc902593437c0f2af898a9
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+c
+3src/main/webapp/WEB-INF/views/first/calculator.html,2\5\2510e27ebdca54e7cf7748d62d81cb4db8f43eb5
